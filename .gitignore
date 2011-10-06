@@ -1,4 +1,9 @@
-/tmp
-/log
-/test-result
-.DS_Store
+#Extracted from https://github.com/ulrich/macaron-factory/blob/master/.gitignore
+# Ignore Play! working directory #
+db
+log
+logs
+precompiled
+tmp
+test-result
+server.pid
