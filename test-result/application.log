@@ -1,0 +1,5 @@
+06 Oct 2011 13:05:53,666 INFO  ~ Starting /Users/gelias/workspace/java/dojo-play
+06 Oct 2011 13:05:55,084 WARN  ~ You're running Play! in DEV mode
+06 Oct 2011 13:05:55,279 INFO  ~ Listening for HTTP on port 9000 (Waiting a first request to start) ...
+06 Oct 2011 13:05:59,269 INFO  ~ Connected to jdbc:h2:mem:play;MODE=MYSQL;LOCK_MODE=0
+06 Oct 2011 13:06:00,023 INFO  ~ Application 'playiscool' is now started !
