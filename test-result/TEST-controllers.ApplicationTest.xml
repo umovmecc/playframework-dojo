@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-
-<testsuite failures="0" time="1.956" errors="0" skipped="0" tests="2" name="controllers.ApplicationTest">
-  <testcase classname="controllers.ApplicationTest" name="testThatIndexPageWorks" time="0.683">
-      </testcase>
-  <testcase classname="controllers.ApplicationTest" name="shouldBeAbleOpenFeedbackPage" time="1.273">
-      </testcase>
-</testsuite>
